@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "def61532c65c7a6e",
+        "username": "H4X",
+        "password": "4",
+        "expirydate": "20-9-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device123",
         "username": "user1",
         "password": "pass123",

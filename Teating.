@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "7f00c8ac322a6b8f",
+        "username": "freestyle",
+        "password": "4",
+        "expirydate": "20-09-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "2578ee5c81434e32",
         "username": "H4X",
         "password": "4",
